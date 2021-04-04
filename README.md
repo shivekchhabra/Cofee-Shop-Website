@@ -7,3 +7,8 @@ Honestly, this is just made for learning purpose. You can take a clone, go to sr
 Alternately you can modify the code and use it
 
 Thanks google images.
+
+### Sample Outputs:
+
+[!alt text](https://github.com/shivekchhabra/Cofee-Shop-Website/blob/master/Output/contact_page.png)
+[!alt text](https://github.com/shivekchhabra/Cofee-Shop-Website/blob/master/Output/menu_page.png)
