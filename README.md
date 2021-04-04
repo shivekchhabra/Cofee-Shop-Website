@@ -10,5 +10,5 @@ Thanks google images.
 
 ### Sample Outputs:
 
-[!alt text](https://github.com/shivekchhabra/Cofee-Shop-Website/blob/master/Output/contact_page.png)
-[!alt text](https://github.com/shivekchhabra/Cofee-Shop-Website/blob/master/Output/menu_page.png)
+![alt text](https://github.com/shivekchhabra/Cofee-Shop-Website/blob/master/Output/contact_page.png)
+![alt text](https://github.com/shivekchhabra/Cofee-Shop-Website/blob/master/Output/menu_page.png)
