@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="./index.html">Homepage</a>
+    <h1>
+        <center>The Morning Coffee</center>
+    </h1>
+    <img src="../Images/logo.png" alt="Image Not Found">
+
+    <h3><center>
+        Contact Details
+    </center></h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius totam possimus dignissimos eveniet perferendis consequatur voluptate repudiandae praesentium reiciendis ullam.</p>
+    <br>
+    <br>
+    <h3><center>Book Online</center></h3>
+    <!-- Attach your server -->
+    <form action="http://127.0.0.1:5000/book" method="post">
+        <!-- Basic Information -->
+        <label for='email'>Email Id: </label>
+        <input type="email" name="email" id="email" placeholder="xyz@xyz.com">
+        <br>
+        <br>
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name">
+        <br>
+        <br>
+        <label for="phone">Phone:</label>
+        <input type="text" name="" id="">
+        <br>
+        <br>
+        <p>Mode:</p>
+        <input type="radio" name="food" id="" checked>Seating
+        <input type="radio" name="food" id="">Takeaway
+        <br>
+        <br>
+        <p>Guest Count:</p>
+
+        
+        <!-- Dropdown for number of guests -->
+        <select name="guests" id="">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+        </select>
+        <br>
+        <br>
+        <p>Remarks if any:</p>
+        <textarea name="Description" id="" cols="35" rows="10" placeholder="Max 50 words"></textarea>
+        <br>
+        <br>
+        <!-- submit -->
+        <input type="submit" value="submit">
+    </form>
+</body>
+</html>
